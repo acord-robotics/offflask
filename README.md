@@ -1,9 +1,3 @@
-# drbot.health
-Website for https://drbot.health/
+Flask web app testing - with user authentication and front end posting
 
-
-The team at AC0/RD Software is going to be collaborating with the DrBot.health for the stack development. 
-
-## Resources
-* [Documentation](https://docs.acord.software)
-Maintainers: Liam Arbuckle & Rishabh Chakrabarty
+[ParentRepo](https://github.com/acord-robotics/datascience)
